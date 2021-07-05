@@ -4,6 +4,6 @@
 
 镜像地址  
 
-registry.cn-qingdao.aliyuncs.com/ls-public/hyperf-base
+registry.cn-qingdao.aliyuncs.com/ls-public/hyperf-base:swoole-4.6.5
 
 或者直接自己拉到自己的工作环境直接构建
